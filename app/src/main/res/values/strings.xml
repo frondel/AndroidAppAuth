@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaltHash</string>
+    <string name="button_submit">Submit</string>
+    <string name="enter_password">Password</string>
+    <string name="user_submit">UserSubmit</string>
+    <string name="create_user">Username</string>
+    <string name="create_password">Password</string>
+    <string name="enter_username">Username</string>
+    <string name="login_create">Create User</string>
+</resources>

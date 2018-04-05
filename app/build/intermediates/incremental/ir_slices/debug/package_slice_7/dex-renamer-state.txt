@@ -1,0 +1,4 @@
+#Tue Apr 03 14:50:16 EDT 2018
+base.0=D\:\\Android\\Projects\\SaltHash\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
